@@ -4,6 +4,7 @@
 This project explores the landscape of players who could potentially take part in the FIFA World Cup 2026. Using exploratory data analysis, the goal is to understand who these players are, where they play, and what patterns emerge before the tournament even begins
 
 🌍 About the players
+
 The dataset includes 4,723 players, giving us a broad view of the global football scene.
 On average, players are 26.3 years old and 171.2 cm tall. When it comes to dominant foot, the distribution is not surprising:
 
