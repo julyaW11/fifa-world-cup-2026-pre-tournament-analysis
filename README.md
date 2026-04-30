@@ -1,6 +1,7 @@
 # ⚽ Exploratory Data Analysis on 2026 Fifa World Cup Players
 
 📌 Overview
+
 This project explores the landscape of players who could potentially take part in the FIFA World Cup 2026. Using exploratory data analysis, the goal is to understand who these players are, where they play, and what patterns emerge before the tournament even begins
 
 🌍 About the players
