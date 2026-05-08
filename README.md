@@ -12,6 +12,7 @@ On average, players are 26.3 years old and 171.2 cm tall. When it comes to domin
 74.3% right-footed
 25.7% left-footed
 
+Dataset used : https://github.com/salimt/football-datasets 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🏟️ Where Do These Players Compete?
 
